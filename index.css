@@ -1,0 +1,37 @@
+#dark{
+    background-color:#393535;
+    height: 20px;
+    width: 20px;
+   color: white;
+}
+   
+#light{
+    background-color:rgb(241, 236, 236);
+    height: 20px;
+    width: 20px;
+   
+}
+table{
+    border-spacing: 0;
+    box-shadow: 1px 1px 50px 2px white ;
+   margin-top: 50px;
+   margin-left: 600px;
+   height: 400px;
+    width: 400px;
+    
+}
+td{
+    text-align: center;
+    
+}
+body{
+    background-image: url(chess.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+h1{
+    font-size: 40px;
+    color: white;
+    text-decoration: rgb(0, 0, 0) wavy underline;
+}
